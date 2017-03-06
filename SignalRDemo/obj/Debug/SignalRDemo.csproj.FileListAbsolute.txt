@@ -1,0 +1,237 @@
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\SignalRDemo.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\SignalRDemo.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Antlr3.Runtime.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Core.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.Core.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\EntityFramework.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Data.Edm.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Data.OData.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Newtonsoft.Json.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Owin.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Repositories.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Spatial.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Helpers.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Http.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Http.OData.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Mvc.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Optimization.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Razor.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\WebActivatorEx.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\WebGrease.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\WebMatrix.Data.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\WebMatrix.WebData.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Entities.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Core.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Repositories.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\EntityFramework.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Newtonsoft.Json.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Helpers.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Http.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Mvc.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Razor.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\WebMatrix.Data.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\WebMatrix.WebData.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.Core.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.Http.OData.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Data.Edm.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Microsoft.Data.OData.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Spatial.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\Entities.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\de\System.Spatial.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\es\System.Spatial.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\fr\System.Spatial.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\it\System.Spatial.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\ja\System.Spatial.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\ko\System.Spatial.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\ru\System.Spatial.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.pdb
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\SignalRDemo.dll.config
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\SignalRDemo.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\SignalRDemo.pdb
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Core.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.Core.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\EntityFramework.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Newtonsoft.Json.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Owin.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Repositories.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Helpers.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Http.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Http.OData.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Mvc.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Optimization.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Razor.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\WebMatrix.Data.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\WebMatrix.WebData.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Entities.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Mono.Math.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Core.pdb
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Repositories.pdb
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\EntityFramework.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Newtonsoft.Json.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Helpers.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Http.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Mvc.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Razor.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\WebMatrix.Data.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\WebMatrix.WebData.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.Core.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Web.Http.OData.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Data.Edm.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Data.OData.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Spatial.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Entities.pdb
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Mono.Math.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\de\System.Spatial.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\es\System.Spatial.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\fr\System.Spatial.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\it\System.Spatial.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\ja\System.Spatial.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\ko\System.Spatial.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\ru\System.Spatial.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.csprojResolveAssemblyReference.cache
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.pdb
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Antlr3.Runtime.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Data.Edm.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Data.OData.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\System.Spatial.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\WebActivatorEx.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\SignalRDemo\bin\WebGrease.dll

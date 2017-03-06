@@ -1,0 +1,36 @@
+﻿@model IList<SignalRDemo.Models.DevTestModels>
+
+<table class="table table-bordered table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Campaign Name</th>
+            <th>Date</th>
+            <th>Clicks</th>
+            <th>Conversions</th>
+            <th>Impressions</th>
+            <th>AffiliateName</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.CampaignName</td>
+                <td>@item.Date</td>
+                <td>@item.Clicks</td>
+                <td>@item.Conversions</td>
+                <td>@item.Impressions</td>
+                <td>@item.AffiliateName</td>
+                <td>
+                    <button type="button" class="btn btn-default btn-xs" onclick="devTest.edit(@item.ID)">Edit</button>
+                    <button type="button" class="btn btn-default btn-xs" onclick="devTest.delete(@item.ID)">Delete</button>
+                </td>
+            </tr>
+            }
+        }
+
+    </tbody>
+</table>

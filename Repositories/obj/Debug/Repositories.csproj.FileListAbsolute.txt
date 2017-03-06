@@ -1,0 +1,14 @@
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\Repositories\bin\Debug\Repositories.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\Repositories\obj\Debug\Repositories.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\SignalRDemo\Repositories\obj\Debug\Repositories.pdb
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\Repositories\bin\Debug\Repositories.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\Repositories\obj\Debug\Repositories.dll
+C:\Users\Rushil.SYNERGIXDEV\Downloads\SignalRDemo\SignalRDemo\Repositories\obj\Debug\Repositories.pdb

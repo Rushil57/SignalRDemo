@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<div id="devTestList">
+    <h2>List</h2>
+    <button type="button" class="btn btn-primary" onclick="devTest.add()">Add New</button>
+    <div id="dataTable">
+    </div>
+</div>
+
+<div id="devTestForm" style="display: none">
+    <h2>Form</h2>
+    <div class="row">
+        <div class="col-md-6">
+            <form>
+                <div class="form-group">
+                    <label>Campaign Name</label>
+                    <input type="text" class="form-control" id="txtCampaignName">
+                </div>
+                <div class="form-group">
+                    <label>Date</label>
+                    <input type="text" class="form-control" id="txtDate" placeholder="yyyy/MM/dd">
+                </div>
+                <div class="form-group">
+                    <label>Clicks</label>
+                    <input type="text" class="form-control" id="txtClicks">
+                </div>
+                <div class="form-group">
+                    <label>Conversions</label>
+                    <input type="text" class="form-control" id="txtConversions">
+                </div>
+                <div class="form-group">
+                    <label>Impressions</label>
+                    <input type="text" class="form-control" id="txtImpressions">
+                </div>
+                <div class="form-group">
+                    <label>Affiliate Name</label>
+                    <input type="text" class="form-control" id="txtAffiliateName">
+                </div>
+                <button type="button" onclick="devTest.save()" class="btn btn-primary">Save</button>
+                <button type="button" onclick="devTest.cancel()" class="btn btn-default">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script src="~/Scripts/jquery.signalR-2.2.1.min.js"></script>
+<script src="/signalr/hubs"></script>
+<script src="~/Scripts/Custom/devtest.js"></script>
